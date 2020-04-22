@@ -9,7 +9,7 @@ My main motivation is to increase familiarity with the Python 3 language and to 
 
 Here are only some concepts I learned while writing this emulator:
 - How to disassemble and decode an opcode into instructions a CPU can use
- - How a CPU can utilize memory, stack, program counters, stack pointers, memory addresses, and registers
+- How a CPU can utilize memory, stack, program counters, stack pointers, memory addresses, and registers
 - How a CPU implements fetch, decode, and execute
 
 ## Acknowledgements
@@ -24,5 +24,4 @@ Here are only some concepts I learned while writing this emulator:
 
 ## License
 
-
-[1]:	https://en.wikipedia.org/wiki/CHIP-8
+This project is open source and available under the [MIT License](LICENSE).
