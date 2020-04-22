@@ -12,4 +12,12 @@ Here are only some concepts I learned while writing this emulator:
  - How a CPU can utilize memory, stack, program counters, stack pointers, memory addresses, and registers
 - How a CPU implements fetch, decode, and execute
 
+## Author
+
+- Alexander Schroll
+
+## License
+
+This project is open source and available under the [MIT License]()(LICENSE).
+
 [1]:	https://en.wikipedia.org/wiki/CHIP-8
