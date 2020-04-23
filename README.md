@@ -18,6 +18,7 @@ Here are only some concepts I learned while writing this emulator:
 This dictionary is organised to resemble the 1977 COSMAC VIP's keyboard which had a 16-key hexadecimal keypad.
 
   Chip-8   Interpreter
+|1|2|1|2|    |n|e|w|1|
 |1|2|3|C|   |1|2|3|4|
 |4|5|6|D|   |Q|W|E|R|
 |7|8|9|E|   |A|S|D|F|
@@ -25,7 +26,7 @@ This dictionary is organised to resemble the 1977 COSMAC VIP's keyboard which ha
 
 ## Acknowledgements
 
-- [CHIP-8 - Wikipedia][3]
+- [CHIP-8 Wikipedia][3]
 - [Cowgod's Chip-8 Technical Reference][4]
 - [Laurence Muller’s introduction to the world of emulation][5] 
 
