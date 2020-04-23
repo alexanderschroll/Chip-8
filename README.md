@@ -1,7 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # Chip-8
 🕹️ A Chip-8 emulator written in Python 3!
 
-> [Chip-8][1] is a simple, interpreted, programming language which was first used on some do-it-yourself computer systems in the late 1970s and early 1980s.
+> [Chip-8](https://en.wikipedia.org/wiki/CHIP-8) is a simple, interpreted, programming language which was first used on some do-it-yourself computer systems in the late 1970s and early 1980s.
 
 ## Motivation
 
@@ -9,7 +11,11 @@ My main motivation is to increase familiarity with the Python 3 language and to 
 
 Here are only some concepts I learned while writing this emulator:
 - How to disassemble and decode an opcode into instructions a CPU can use
+<<<<<<< HEAD
  - How a CPU can utilise memory, stack, program counters, stack pointers, memory addresses, and registers
+=======
+- How a CPU can utilize memory, stack, program counters, stack pointers, memory addresses, and registers
+>>>>>>> 9b940c07fedfa2ae7aab8f10f9bdd547ef2742bb
 - How a CPU implements fetch, decode, and execute
 ## Key Mapping
 This dictionary is organised to resemble the 1977 COSMAC VIP's keyboard which had a 16-key hexadecimal keypad.
@@ -21,9 +27,9 @@ This dictionary is organised to resemble the 1977 COSMAC VIP's keyboard which ha
 |A|0|B|F|   |Z|X|C|V|
 ## Acknowledgements
 
-- [CHIP-8 - Wikipedia]()(https://en.wikipedia.org/wiki/CHIP-8)
-- [Cowgod's Chip-8 Technical Reference]()(http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
-- [Laurence Muller’s introduction to the world of emulation]()(http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter) 
+- [CHIP-8 - Wikipedia](https://en.wikipedia.org/wiki/CHIP-8)
+- [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
+- [Laurence Muller’s introduction to the world of emulation](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter) 
 
 ## Author
 
@@ -31,5 +37,4 @@ This dictionary is organised to resemble the 1977 COSMAC VIP's keyboard which ha
 
 ## License
 
-
-[1]:	https://en.wikipedia.org/wiki/CHIP-8
+This project is open source and available under the [MIT License](LICENSE).
