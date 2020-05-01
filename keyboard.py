@@ -1,6 +1,6 @@
+#!/usr/bin/env python3
 # This module contains functions to use the PC keyboard as a Chip-8 hex keyboard
 
-#!/usr/bin/env python3
 import pygame
 
 # Get hex value of the key pressed
