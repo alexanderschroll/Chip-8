@@ -1,4 +1,4 @@
-# GUI and entry point for the CHIP-8 Emulator
+# GUI and main entry point for the CHIP-8 Emulator
 
 # Turn off the pygame support message by setting the enviroment variable to any value
 from os import environ
